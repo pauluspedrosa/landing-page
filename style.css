@@ -48,3 +48,11 @@ img {
     height: 250px;
     margin-left: 120px;
 }
+
+.header-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    padding: 30px 0px;
+}
