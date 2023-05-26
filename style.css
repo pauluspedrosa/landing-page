@@ -6,3 +6,9 @@ body {
     flex-direction: column;
     margin: 0;
 }
+
+.header {
+    display: flex;
+    flex-direction: column;
+    background: #1F2937;
+}
