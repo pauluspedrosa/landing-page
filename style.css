@@ -36,3 +36,8 @@ ul {
     align-items: center;
     gap: 30px;
 }
+
+a {
+    text-decoration: none;
+    color: #a39a9a;
+}
