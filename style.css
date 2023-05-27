@@ -107,3 +107,7 @@ img {
     border: solid#3882F6;
     border-radius: 10px;
 }
+
+.box-and-subtext {
+    padding: 0 30px;
+}
