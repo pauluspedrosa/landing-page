@@ -96,3 +96,7 @@ img {
     font-weight: bolder;
     color: #1F2937;
 }
+
+.box-container {
+    display: flex;
+}
