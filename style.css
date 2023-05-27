@@ -83,3 +83,10 @@ img {
     border: 0;
     color: #F9FAF8;
 }
+
+.upper-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
