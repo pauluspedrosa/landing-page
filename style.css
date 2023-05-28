@@ -174,3 +174,10 @@ img {
     justify-content: center;
     align-items: center;
 }
+
+.lower-heading,
+.lower-para {
+    width: 460px;
+    margin: 0;
+    color: #F9FAF8;
+}
