@@ -185,3 +185,12 @@ img {
 .lower-para {
     font-family: sans-serif;
 }
+
+.lower-button {
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    background: #3882F6;
+    border: solid white;
+    color: #F9FAF8;
+}
