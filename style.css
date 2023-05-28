@@ -151,3 +151,11 @@ img {
     justify-content: center;
     align-items: center;
 }
+
+.blue-container {
+    height: 122px;
+    width: 950px;
+    background: #3882F6;
+    display: flex;
+    border-radius: 10px;
+}
