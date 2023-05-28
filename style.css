@@ -137,3 +137,10 @@ img {
     height: 160px;
     margin: 0;
 }
+
+.signature {
+    width: 810px;
+    text-align: end;
+    font-size: 24px;
+    margin: 0;
+}
