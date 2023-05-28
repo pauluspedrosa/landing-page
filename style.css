@@ -128,3 +128,12 @@ img {
     justify-content: center;
     align-items: center;
 }
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    width: 850px;
+    height: 160px;
+    margin: 0;
+}
