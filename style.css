@@ -159,3 +159,11 @@ img {
     display: flex;
     border-radius: 10px;
 }
+
+.lower-body-content {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
